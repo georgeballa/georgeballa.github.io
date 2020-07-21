@@ -1,9 +1,10 @@
-```
-# Foobar
 
-Foobar is a Python library for dealing with word pluralization.
+# George Balla
+
 ```
-## Installation
+PhD student with [Prof. Dr. Ghislain Fourier](https://www.art.rwth-aachen.de/cms/MATHB/Der-Lehrstuhl/Team/Professorinnen-und-Professoren/~rnko/Fourier/lidx/1/)
+```
+# Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
