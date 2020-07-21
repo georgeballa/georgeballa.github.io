@@ -14,7 +14,7 @@ Email: balla at art dot rwth minus aachen dot de
 
 ### Research
 ```bash
-pip install foobar
+My research is at the intersection of algebraic geometry (of flag varieties), combinatorics (of tableaux and polytopes) and representation theory (of finite dimensional Lie algebras). I am also currently interested in tropical varieties arising from algebraic geometry (from flag varieties in particular).
 ```
 
 ## Usage
