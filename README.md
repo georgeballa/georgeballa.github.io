@@ -1,6 +1,14 @@
 ### George Balla
 <pre>
-PhD student with <a href ="https://www.art.rwth-aachen.de/cms/MATHB/Der-Lehrstuhl/Team/Professorinnen-und-Professoren/~rnko/Fourier/lidx/1/"> Prof. Dr. Ghislain Fourier
+PhD student with <a href ="https://www.art.rwth-aachen.de/cms/MATHB/Der-Lehrstuhl/Team/Professorinnen-und-Professoren/~rnko/Fourier/lidx/1/"> Prof. Dr. Ghislain Fourier</a>
+
+Lehrstuhl B für Mathematik (Algebra)
+RWTH Aachen University
+Pontdriesch 10-16
+52062 Aachen, Germany
+
+Office: room 402, building no. 1952
+Email: second name at mathb dot rwth minus aachen dot de
 </pre>
 
 
