@@ -15,14 +15,13 @@ Email: balla at art dot rwth minus aachen dot de
 ### Research
 <pre>
 My research is at the intersection of algebraic geometry (of flag varieties), combinatorics (of tableaux and polyhedral 
-complexes) and representation theory (of finite dimensional Lie algebras). Currently, my main interests are in
+complexes) and representation theory (of finite dimensional Lie algebras). Currently, my main interest is in various
 degenerations of flag varieties, whose study interlaces these topics and leads naturally to tropical and toric geometry.
 
 My research is funded by the German Academic Exchange Service (DAAD) under the grant: 
 "Research Grants - Doctoral Programmes in Germany."
 
 [<a href ="https://arxiv.org/abs/2007.06362"> Preprint</a>]: Symplectic PBW Tableaux and Degenerate Relations, July 2020.
-Master Thesis: Tropical geometry of the variety of planes.
 
-
+Master Thesis: Toric degeneration and tropical geometry of the variety of planes (<a href ="https://aims.edu.gh"> AIMS Ghana</a> and <a href ="https://www.imsp-benin.com/home/"> IMSP Benin</a>).
 </pre>
