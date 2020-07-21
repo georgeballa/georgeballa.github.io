@@ -1,8 +1,7 @@
-
-# George Balla
-PhD student with [[Prof. Dr. Ghislain Fourier](https://www.art.rwth-aachen.de/cms/MATHB/Der-Lehrstuhl/Team/Professorinnen-und-Professoren/~rnko/Fourier/lidx/1/)]
-
-Chair of
+### George Balla
+<pre>
+PhD student with <a href ="https://www.art.rwth-aachen.de/cms/MATHB/Der-Lehrstuhl/Team/Professorinnen-und-Professoren/~rnko/Fourier/lidx/1/"> Prof. Dr. Ghislain Fourier
+</pre>
 
 
 # Installation
