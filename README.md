@@ -25,3 +25,7 @@ My research is funded by the German Academic Exchange Service (DAAD) under the g
 
 Master Thesis: Toric degeneration and tropical geometry of the variety of planes (<a href ="https://aims.edu.gh"> AIMS Ghana</a> and <a href ="https://www.imsp-benin.com/home/"> IMSP Benin</a>).
 </pre>
+
+```
+Maintained by me. Last updated on 21.07.2020
+```
