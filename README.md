@@ -1,3 +1,6 @@
 George Balla
-PhD Student 
+
+PhD Student with Ghislain Fourier
+
+Chair of algebra and representation theory
 
