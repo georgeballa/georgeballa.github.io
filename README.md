@@ -40,5 +40,5 @@ Wintersemester 2019
 </pre>
 
 ```
-Maintained by me. Last updated on 24.07.2020
+Maintained by me. Last updated on 25.07.2020
 ```
