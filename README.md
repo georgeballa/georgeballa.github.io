@@ -27,6 +27,14 @@ My research is funded by the German Academic Exchange Service (DAAD) under the g
 Master Thesis: Toric degeneration and tropical geometry of the variety of planes (<a href ="https://aims.edu.gh"> AIMS Ghana</a> and <a href ="https://www.imsp-benin.com/home/"> IMSP Benin</a>).
 </pre>
 
+### Activities
+<pre>
+Summersemester 2020
+-
+-
+- [<a href ="https://github.com/georgeballa/georgeballa.github.io/blob/master/22-07-2020%2BBalla.pdf"> Talk</a>] June 2020.
+</pre>
+
 ```
 Maintained by me. Last updated on 21.07.2020
 ```
