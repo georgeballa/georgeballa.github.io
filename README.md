@@ -36,7 +36,7 @@ Summersemester 2020
 
 Wintersemester 2019
 - Seminar: Quivers and their representations
-- Research seminar
+- Research seminar.
 </pre>
 
 ```
